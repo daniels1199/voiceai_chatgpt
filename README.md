@@ -1,5 +1,5 @@
 # voiceai_chatgpt
-This project try to emulate a voice assistant using ChatGPT engine.
+This project try to emulate a API with voice assistant using ChatGPT engine.
 
 # Requirements
   - a linux environment
