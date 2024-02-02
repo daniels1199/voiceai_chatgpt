@@ -26,8 +26,8 @@ def main():
     while True:
         prompt = input("Você: ")
 
-        if prompt.lower() == 'sair':
-            speak_with_rhvoice("Até logo.")
+        if 'sair' in prompt.lower():
+            speak_with_rhvoice("Tudo bem, Até logo.")
             break
     
     # Chamar a função ask_gpt com a entrada do usuário
